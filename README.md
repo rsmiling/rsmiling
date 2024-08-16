@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fundamentals of python ruby
 - 💞️ I’m looking to collaborate on anything that will improve princeples of codeing 
 - 📫 How to reach me tyronbiggums@proton.me
-- 😄 Pronouns: wizard/wizards 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: eveything i say is a lie but that   
 
 <!---
