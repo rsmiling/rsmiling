@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rsmiling
-- 👀 I’m interested in al,ethical hacking,the intergration of a.i augmented reality and man  
+- 👀 I’m interested a little bit of this and that
 - 🌱 I’m currently learning fundamentals of python ruby
-- 💞️ I’m looking to collaborate on anything that will improve princeples of codeing 
+- 💞️ I’m looking to collaborate on anything that will improve my programming princeples 
 - 📫 How to reach me tyronbiggums@proton.me
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: eveything i say is a lie but that   
+- 😄 Pronouns: us/them
+- ⚡ Fun fact: Everything I say is a lie but that   
 
 <!---
 rsmiling/rsmiling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
